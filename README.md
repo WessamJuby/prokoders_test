@@ -21,7 +21,7 @@ Clone the repository:
 
 Bash
 ```
-git clone https://your-repository-url.git
+git clone https://github.com/WessamJuby/prokoders_test
 ```
 
 Install dependencies:
